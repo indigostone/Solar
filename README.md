@@ -1,3 +1,3 @@
 # Solar
 
-This is the main repository for the home hydroponics test farm. 
+This is my home for the small scale solar powered system, hydroponic garden and assorted solarpunk geekery. 
